@@ -28,3 +28,5 @@ The chatbot allows customers to place food orders, provide their details, confir
 # Images
 ![Image](https://github.com/user-attachments/assets/66d9fc76-50ee-4ae7-a620-93ea0c9537f4) 
 
+![Image](https://github.com/user-attachments/assets/633c14c8-7876-4aa9-aaf6-920e832315ee) 
+
