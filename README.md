@@ -24,3 +24,7 @@ The chatbot allows customers to place food orders, provide their details, confir
 4. Go to **Dialogflow Console → Integrations → Telegram**.
 5. Paste the token in the integration settings.
 6. Enable Telegram integration and start chatting with your bot .
+
+# Images
+![Image](https://github.com/user-attachments/assets/66d9fc76-50ee-4ae7-a620-93ea0c9537f4) 
+
